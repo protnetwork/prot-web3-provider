@@ -1,0 +1,30 @@
+{
+  "name": "prot-web3-provider",
+  "version": "1.0.0",
+  "description": "Web3 javascript wrapper provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protnetwork/prot-web3-provider.git"
+  },
+  "keywords": [
+    "Web3",
+    "Ethereum",
+    "Prot"
+  ],
+  "author": "jackliu8722",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/protnetwork/prot-web3-provider/issues"
+  },
+  "homepage": "https://github.com/protnetwork/prot-web3-provider#readme",
+  "dependencies": {
+    "web3": "^0.20.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
