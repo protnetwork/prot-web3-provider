@@ -22,9 +22,11 @@
   },
   "homepage": "https://github.com/protnetwork/prot-web3-provider#readme",
   "dependencies": {
+    "node-fetch": "^2.2.0",
     "web3": "^0.20.1"
   },
   "devDependencies": {
-    "chai": "^4.1.2"
+    "chai": "^4.1.2",
+    "eslint": "^5.5.0"
   }
 }
